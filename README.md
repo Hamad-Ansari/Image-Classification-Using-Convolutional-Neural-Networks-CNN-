@@ -67,3 +67,12 @@ Regularization techniques used:
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
+```
+👤 Author
+
+Hammad Zahid
+Data Scientist | Machine Learning | Deep Learning
+
+🔗 LinkedIn: https://www.linkedin.com/in/hammad-zahid-xyz
+
+🐙 GitHub: https://github.com/Hamad-Ansari
